@@ -2,7 +2,7 @@ package introducaoaojava;
 
 import java.util.Scanner;
 
-public class VetorMatriz {
+public class Vetor01 {
 	
 	public static void main(String[] args) {
 		
